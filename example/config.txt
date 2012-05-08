@@ -1,0 +1,4 @@
+example.csv
+10000000 10000
+SpotGlobal.log SpotLocal.log
+
